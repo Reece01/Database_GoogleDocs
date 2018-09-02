@@ -3,6 +3,7 @@
 Making this into a loader should be done soon there are some issues and things I need to add like the write function...
 
 How to install:
+
     1: Got to https://developers.google.com/sheets/api/quickstart/dotnet and setup a project and add permissions & download 
 		the credentials.json
 		
